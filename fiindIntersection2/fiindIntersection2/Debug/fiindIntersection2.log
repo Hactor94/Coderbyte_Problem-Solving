@@ -1,0 +1,5 @@
+﻿  fiindIntersection2.cpp
+C:\Users\NHLANHLA\OneDrive\Desktop\Projects\Coderbyte-Problem_Solving\fiindIntersection2\fiindIntersection2\fiindIntersection2.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NHLANHLA\OneDrive\Desktop\Projects\Coderbyte-Problem_Solving\fiindIntersection2\fiindIntersection2\fiindIntersection2.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NHLANHLA\OneDrive\Desktop\Projects\Coderbyte-Problem_Solving\fiindIntersection2\fiindIntersection2\fiindIntersection2.cpp(54,27): warning C4018: '<': signed/unsigned mismatch
+  fiindIntersection2.vcxproj -> C:\Users\NHLANHLA\OneDrive\Desktop\Projects\Coderbyte-Problem_Solving\fiindIntersection2\Debug\fiindIntersection2.exe
